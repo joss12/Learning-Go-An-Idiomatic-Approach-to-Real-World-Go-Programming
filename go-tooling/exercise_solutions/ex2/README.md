@@ -1,0 +1,3 @@
+go install honnef.co/go/tools/cmd/staticcheck@latest
+cd ch11/exercise_solutions/ex1
+staticcheck ./...

@@ -1,0 +1,6 @@
+# github.com/learning-go-book-2e/simpletax/v2 v2.0.0
+## explicit; go 1.19
+github.com/learning-go-book-2e/simpletax/v2
+# github.com/shopspring/decimal v1.4.0
+## explicit; go 1.10
+github.com/shopspring/decimal
